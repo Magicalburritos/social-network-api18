@@ -8,12 +8,12 @@ social network API that lets you connect with friends and share and have thought
 
 ## table of Contents
 
-- [Installation](#installation)
+- [Installation](#Installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## installation
+## Installation
 
 To get this app to work clone this repo then `npm i` and make sure you have mongoose and express.js as dependencies then run with `npm run` and use insomnia or somthing similer to to test
 
